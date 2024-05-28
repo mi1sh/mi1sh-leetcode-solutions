@@ -1,2 +1,2 @@
-.idea/
-.gitignore
+# file: ~/.gitignore_global
+.idea
